@@ -11,7 +11,7 @@ simulated_ai_log = """
 """
 
 def analyze_development_log(log_text):
-    print("=== SoftBank AI-Native Log Analyzer ===")
+    print("=== AI-Native Log Analyzer ===")
     print(f"Analysis Time: {datetime.datetime.now()}\n")
     
     # 改行ごとにログを分割
